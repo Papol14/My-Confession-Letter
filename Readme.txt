@@ -2,4 +2,7 @@ It's been almost 2 months na wala akong activity sa GitHub because of many overw
 
 As a man being, kailangan ko maintindihan na nasa kalagitnaan ng pagsubok at hirap na pinagdadaanan, normal lang na mangyari sa akin ang lahat ng ito kasi sa una palang alam ko na sa karamihan ng ginagawa ko sa buhay iisa lang naman talaga ang gusto ko
 
-Kahulugan, I need meaning. Kahit alam kong 17 years old pa ako noong mga araw na yun, ang weird lang kasi doon ko naramdaman yung tinatawag na sense of urgency. 16 years old i made my first blog website published on wordpress, 17 years old i made my first diy drone but i didn't fly, 18 years old, my drone finally worked after too many tests and mishaps happened then i started freelancing as a graphic design and data analyst mahirap lang aralin kasi wala pang AI that time. 
+Kahulugan, I need meaning. Kahit alam kong 17 years old pa ako noong mga araw na yun, ang weird lang kasi doon ko naramdaman yung tinatawag na sense of urgency. 16 years old i made my first blog website published on wordpress, 17 years old i made my first diy drone but i didn't fly, 18 years old, my drone finally worked after too many tests and mishaps happened then i started freelancing as a graphic design, data analysis, and ethical hacking mahirap lang aralin kasi wala pang AI that time. 
+
+Continuation... 19 years old I try to learn C++ (progamming language) for the upgrade features of drone but it didn't happened. Dito sa taon na to natututo ako mag programming, inaaral ko yung mga hindi inaaral ng iba at hindi align sa college course ko sa Business Ad. My first program was fun "Hello World", i feel like na parang ako na yung pinaka matalino sa balat ng lupa hahaha.
+

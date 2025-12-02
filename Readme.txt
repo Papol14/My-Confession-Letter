@@ -1,3 +1,4 @@
+10-14-25
 It's been almost 2 months na wala akong activity sa GitHub because of many overwhelming things like trading, pursuing masteral while applying for work the rest, Nawala yung momentum ko sa iba. Web development, Automation, Version control, RC components and some other technical stuff. Nag decide ako na gumawa ng ganitong journal para kung sakaling mabigat ang iniisip ko, pwede ko sya isulat dito at kung nabasa mo ito, salamat kasi may nag effort ka. After mo mabasa lahat ng ginawa ko, pwede ko ba marinig ang reaksyon mo?
 
 As a man being, kailangan ko maintindihan na nasa kalagitnaan ng pagsubok at hirap na pinagdadaanan, normal lang na mangyari sa akin ang lahat ng ito kasi sa una palang alam ko na sa karamihan ng ginagawa ko sa buhay iisa lang naman talaga ang gusto ko
@@ -14,6 +15,7 @@ Pagdating ko ng 20 years old sobrang grateful ko kasi marami akong natulungan na
 
 
 TO BE CONTINUED...
+
 
 
 
